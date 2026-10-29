@@ -21,4 +21,4 @@ Proyecto final · SINF-633 Análisis Exploratorio de Datos · Universidad Cenfot
 La versión de scikit-learn está fijada en 1.6.1 porque los resultados del Random Forest pueden cambiar un poco con otras versiones.
 
 ## Herramientas
-Usé claude como apoyo para estructurar el código y redactar parte de los enunciados, las decisiones del análisis, la revisión de los resultados y las conclusiones son mías, tambien use principalmente google colab, seaborn, pandas, entre otras librerias para la finalizacion del proyecto.
+Usé claude como apoyo para estructurar el código y redactar parte de los enunciados y crear el README, las decisiones del análisis, la revisión de los resultados y las conclusiones son mías, tambien use principalmente google colab, seaborn, pandas, entre otras librerias para la finalizacion del proyecto.
