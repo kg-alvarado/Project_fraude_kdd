@@ -1,0 +1,10 @@
+# Datos (no se suben al repositorio)
+     data/*.csv
+
+     # Archivos temporales de Jupyter y Python
+     .ipynb_checkpoints/
+     __pycache__/
+
+     # Archivos del sistema
+     .DS_Store
+     Thumbs.db
